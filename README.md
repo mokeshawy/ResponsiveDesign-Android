@@ -6,10 +6,8 @@ Working with ConstraintLayout & Guideline
 sdp libirary :-
 
     dependencies {
-
-    implementation 'com.intuit.sdp:sdp-android:1.0.6'
-
-  }
+        implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    }
 
 repo of libirary :- 
 
