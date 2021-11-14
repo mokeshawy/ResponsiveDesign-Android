@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         android:animateLayoutChanges="true">
 
-
+        
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/guideline2"
             android:layout_width="wrap_content"
@@ -33,7 +33,7 @@
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/_170sdp"
+            android:layout_marginTop="@dimen/_120sdp"
             android:hint="User name"
             android:textColorHint="#c7c8cb"
             app:endIconMode="clear_text"
